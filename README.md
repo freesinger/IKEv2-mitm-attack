@@ -33,7 +33,7 @@ A simple tool for performing Man-In-The-Middle(MITM) attack on Internet Key Exch
 
 #### Example:
 
-> python mitm.py -i en0 -t1 192.168.1.8 -t2 192.168.1.1 -f -q -c
+> *python mitm.py -i en0 -t1 192.168.1.8 -t2 192.168.1.1 -f -q -c*
 
 #### Output:
 
