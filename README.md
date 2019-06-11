@@ -48,4 +48,4 @@ If you are looking for more about MITM, [Bettercap]([https://github.com/betterca
 
 ## License
 
-[MIT](https://github.com/freesinger/IKEv2-mitm-attack/LICENSE)
+[MIT](https://github.com/freesinger/IKEv2-mitm-attack/blob/master/LICENSE)
