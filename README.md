@@ -45,11 +45,11 @@ I monitor network activities through **Wireshark**, which gives me the result as
 
 ![wsharkmonitor](images/wsharkmonitor.png)
 
-The result shows that we have become MITM between `196.168.1.2` and `192.168.1.1`, which grants us the access to their communication information. Furthurmore, we may be able to decrypt the information we captured and change or delete what we want in it.
+The result shows that we have become MITM between `196.168.1.2` and `192.168.1.1`, which grants us the access to their communication information. Furthurmore, we may be able to decrypt the information we captured and change or delete what we want in it.
 
 ## More
 
-If you are looking for more about MITM, [Bettercap](https://github.com/bettercap/bettercap) is an easy to use, all-in-one solution with all the features they might possibly need for performing reconnaissance and attacking [WiFi](https://www.bettercap.org/modules/wifi/) networks, [Bluetooth Low Energy](https://www.bettercap.org/modules/ble/) devices, wireless [HID](https://www.bettercap.org/modules/hid/) devices and [Ethernet](https://www.bettercap.org/modules/ethernet) networks.
+If you are looking for more about MITM, [Bettercap](https://github.com/bettercap/bettercap) is an easy to use, all-in-one solution with all the features they might possibly need for performing reconnaissance and attacking [WiFi](https://www.bettercap.org/modules/wifi/) networks, [Bluetooth Low Energy](https://www.bettercap.org/modules/ble/) devices, wireless [HID](https://www.bettercap.org/modules/hid/) devices and [Ethernet](https://www.bettercap.org/modules/ethernet) networks.
 
 ## License
 
