@@ -4,6 +4,7 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/freesinger/IKEv2-mitm-attack.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/freesinger/IKEv2-mitm-attack.svg)
 ![GitHub](https://img.shields.io/github/license/freesinger/IKEv2-mitm-attack.svg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffreesinger%2FIKEv2-mitm-attack.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffreesinger%2FIKEv2-mitm-attack?ref=badge_shield)
 
 A simple tool for performing Man-In-The-Middle(MITM) attack on Internet Key Exchange version 2 protocal(IKEv2) based on python library `scapy`.
 
@@ -54,3 +55,6 @@ If you are looking for more about MITM, [Bettercap](https://github.com/bettercap
 ## License
 
 [MIT](https://github.com/freesinger/IKEv2-mitm-attack/blob/master/LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffreesinger%2FIKEv2-mitm-attack.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffreesinger%2FIKEv2-mitm-attack?ref=badge_large)
